@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-upstreams/drupal-project",
+    "name": "sharique/demo-upstream",
     "description": "Install Drupal 9 with Composer on Pantheon.",
     "type": "project",
     "license": "MIT",
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "pantheon-upstreams/upstream-configuration": "self.version",
+        "sharique/demo-repo": "0.0.1",
         "composer/installers": "^1.9",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
